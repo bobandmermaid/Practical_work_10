@@ -35,4 +35,4 @@
   + путь — последовательность из цифр, слешей и латинских букв, на конце которого может стоять решётка #
   
   ### Посмотреть    
-  https://bobandmermaid.github.io/form/
+  https://bobandmermaid.github.io/regexp/
